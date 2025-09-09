@@ -55,6 +55,14 @@ nav li a {
     height: 40px;
     line-height: 40px;
     font-size: 25px;
+    text-decoration: none;
+    border-radius: 10px;
+    border: 2px solid green;
+}
+
+nav li a:hover {
+    color: aquamarine;
+    background-color: green;
 }
 
 main {
@@ -74,4 +82,21 @@ main img {
     margin: 20px auto;
     width: 600px;
     border-radius: 20px;
+}
+
+main h2 {
+    text-align: center;
+    color: brown;
+}
+
+.multi_col {
+    display: flex;
+}
+
+section,
+aside {
+    border-radius: 20px;
+    border: 2px solid navy;
+    margin: 20px;
+    padding: 20px;
 }
