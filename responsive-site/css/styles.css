@@ -202,14 +202,24 @@ footer {
     /* Desktop Styles */
 
 @media (min-width: 1024px) {
-
     #container {
         width: 65%;
         margin: 20px auto;
         background-color: brown;
     }
 
-    .galler {
+    .gallery {
         display: flex;
+    }
+
+    .col {
+        border: 2px solid maroon;
+        margin: 10px;
+        padding: 10px;
+        border-radius: 10px;
+    }
+
+    .col img {
+        width: 100%;
     }
 }
