@@ -80,7 +80,7 @@ main {
 }
 
 main h2 {
-    color: brown;
+    color: rgb(79, 255, 34);
     text-align: center;
 }
 
@@ -93,7 +93,7 @@ main img {
 
 main h2 {
     text-align: center;
-    color: brown;
+    color: rgb(1, 232, 190);
 }
 
 .multi_col {
