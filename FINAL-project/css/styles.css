@@ -3,6 +3,13 @@
     margin: 0;
 }
 
+h1 {
+      font-family: "Caveat", cursive;
+      font-optical-sizing: auto;
+      font-weight: 600;
+      font-style: normal;
+}
+
 
 body {
     background-color: aquamarine;
@@ -24,7 +31,7 @@ header {
 }
 
 header h1 {
-    color: brown;
+    color: aquamarine;
     font-size: 30px;
 }
 nav {
