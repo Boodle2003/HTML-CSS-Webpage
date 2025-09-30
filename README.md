@@ -7,4 +7,5 @@ This is a project I am making for college. It is not for distribution to the pub
 <li><a href="html5/index.html" target="_blank">Two Page Site</li>
 <li><a href="adv-css/index.html" target="_blank">Advanced CSS</li>
 <li><a href="responsive-site/index.html" target="_blank">Responsive Site</li>
+<li><a href="FINAL-project/index.html" target="_blank">Final Project</li>
 </ul>
